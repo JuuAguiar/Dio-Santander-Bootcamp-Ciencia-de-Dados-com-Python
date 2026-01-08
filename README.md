@@ -1,6 +1,3 @@
-# Dio-Santander-Bootcamp-Ci-ncia-de-Dados-com-Python
-Repositório com projetos, desafios e estudos desenvolvidos durante o Santander Bootcamp – Ciência de Dados com Python (DIO).
-
 # Santander Bootcamp – Ciência de Dados com Python 🐍📊
 
 Este repositório reúne **projetos, desafios práticos e exercícios** desenvolvidos durante o **Santander Bootcamp – Ciência de Dados com Python**, oferecido pela **DIO (Digital Innovation One)** em parceria com o **Banco Santander**.
