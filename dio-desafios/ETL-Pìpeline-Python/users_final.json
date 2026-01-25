@@ -1,0 +1,194 @@
+[
+  {
+    "id": 101,
+    "name": "Gabrielly",
+    "account": {
+      "id": 201,
+      "number": "12345-1",
+      "agency": "0001",
+      "balance": 5000.0,
+      "limit": 1500.0
+    },
+    "card": {
+      "id": 301,
+      "number": "**** **** **** 9876",
+      "limit": 5000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 1,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Gabrielly, seu saldo demonstra uma ótima saúde financeira. Considere investir para potencializar seus ganhos."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Marcos",
+    "account": {
+      "id": 202,
+      "number": "54321-2",
+      "agency": "0001",
+      "balance": 1200.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 302,
+      "number": "**** **** **** 1234",
+      "limit": 1500.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 2,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Marcos, investir pequenas quantias regularmente pode ajudar a construir uma boa reserva financeira."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Ana Paula",
+    "account": {
+      "id": 203,
+      "number": "67890-3",
+      "agency": "0001",
+      "balance": 700.0,
+      "limit": 300.0
+    },
+    "card": {
+      "id": 303,
+      "number": "**** **** **** 5678",
+      "limit": 800.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 3,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Ana Paula, mesmo com valores menores é possível começar a investir e planejar o futuro."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Lucas",
+    "account": {
+      "id": 204,
+      "number": "09876-4",
+      "agency": "0001",
+      "balance": 2500.0,
+      "limit": 1000.0
+    },
+    "card": {
+      "id": 304,
+      "number": "**** **** **** 4321",
+      "limit": 2000.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 4,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Lucas, investir pequenas quantias regularmente pode ajudar a construir uma boa reserva financeira."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Beatriz",
+    "account": {
+      "id": 205,
+      "number": "11223-5",
+      "agency": "0001",
+      "balance": 3200.0,
+      "limit": 1200.0
+    },
+    "card": {
+      "id": 305,
+      "number": "**** **** **** 8765",
+      "limit": 2500.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 5,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Beatriz, seu saldo demonstra uma ótima saúde financeira. Considere investir para potencializar seus ganhos."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Rafael",
+    "account": {
+      "id": 206,
+      "number": "33445-6",
+      "agency": "0001",
+      "balance": 1500.0,
+      "limit": 700.0
+    },
+    "card": {
+      "id": 306,
+      "number": "**** **** **** 3456",
+      "limit": 1800.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 6,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Rafael, investir pequenas quantias regularmente pode ajudar a construir uma boa reserva financeira."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Camila",
+    "account": {
+      "id": 207,
+      "number": "55667-7",
+      "agency": "0001",
+      "balance": 4000.0,
+      "limit": 1300.0
+    },
+    "card": {
+      "id": 307,
+      "number": "**** **** **** 6543",
+      "limit": 2200.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 7,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Camila, seu saldo demonstra uma ótima saúde financeira. Considere investir para potencializar seus ganhos."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Felipe",
+    "account": {
+      "id": 208,
+      "number": "77889-8",
+      "agency": "0001",
+      "balance": 2800.0,
+      "limit": 900.0
+    },
+    "card": {
+      "id": 308,
+      "number": "**** **** **** 7890",
+      "limit": 1600.0
+    },
+    "features": [],
+    "news": [
+      {
+        "id": 8,
+        "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+        "description": "Felipe, investir pequenas quantias regularmente pode ajudar a construir uma boa reserva financeira."
+      }
+    ]
+  }
+]
